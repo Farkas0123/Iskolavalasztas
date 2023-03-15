@@ -1,0 +1,7 @@
+D:\Programozás\11F\hazi_1.2\iskola_valasztas\iskola_valasztas\bin\Debug\iskola_valasztas.exe.config
+D:\Programozás\11F\hazi_1.2\iskola_valasztas\iskola_valasztas\bin\Debug\iskola_valasztas.exe
+D:\Programozás\11F\hazi_1.2\iskola_valasztas\iskola_valasztas\bin\Debug\iskola_valasztas.pdb
+D:\Programozás\11F\hazi_1.2\iskola_valasztas\iskola_valasztas\obj\Debug\iskola_valasztas.csproj.AssemblyReference.cache
+D:\Programozás\11F\hazi_1.2\iskola_valasztas\iskola_valasztas\obj\Debug\iskola_valasztas.csproj.CoreCompileInputs.cache
+D:\Programozás\11F\hazi_1.2\iskola_valasztas\iskola_valasztas\obj\Debug\iskola_valasztas.exe
+D:\Programozás\11F\hazi_1.2\iskola_valasztas\iskola_valasztas\obj\Debug\iskola_valasztas.pdb
